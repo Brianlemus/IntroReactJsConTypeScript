@@ -1,0 +1,16 @@
+Este proyecto contiene ejercicios basicos de react con typeScript 
+tales como peticiones http, formularios, hooks como useState, useEffect, useRef, 
+manejador de estados con disparadores de useRedux, como crear propios hooks personalizados 
+incluyendo genericos con typeScript, como crear y utilizar interfaces typadas, 
+entre otros temas basicos.
+
+Puntos importantes...!
+
+Este proyecto esta creado con Yarn como manejador de paquetes.
+si no tienes yarn aqui esta el enlace oficial.
+ https://yarnpkg.com/
+O pueden buscar en internet si asi lo desean.
+
+despues tienen que correr el yarn init para instalar los paquetes. 
+y poder ejecutar el proyecto y practicar.
+descomenten el app.tsx y veran todos los ejercicios realizados.
